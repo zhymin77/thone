@@ -1,0 +1,10 @@
+#External Dependencies
+#Thu Nov 08 14:16:53 CST 2012
+/home/zhangyoumin/bin/thone/lib/unfiltered_2.8.2-0.6.4.jar=src/main/scala/Palindrome.scala\:src/main/scala/Time.scala
+/home/zhangyoumin/bin/thone/lib/unfiltered-netty-server_2.8.2-0.6.4.jar=src/main/scala/Server.scala
+/home/zhangyoumin/bin/thone/lib/netty-3.5.7.Final.jar=src/main/scala/Palindrome.scala\:src/main/scala/Time.scala
+/home/zhangyoumin/bin/thone/lib/avsl_2.9.0-0.3.2.jar=src/main/scala/Server.scala\:src/main/scala/Palindrome.scala\:src/main/scala/Time.scala
+/home/zhangyoumin/bin/thone/lib/unfiltered-util_2.8.2-0.6.4.jar=src/main/scala/Server.scala
+/home/zhangyoumin/workspace/build/libs/jdk/jdk1.7.0/jre/lib/rt.jar=src/main/scala/Server.scala\:src/main/scala/Palindrome.scala\:src/main/scala/Time.scala
+/home/zhangyoumin/bin/thone/project/boot/scala-2.8.1/lib/scala-library.jar=src/main/scala/Server.scala\:src/main/scala/Palindrome.scala\:src/main/scala/Time.scala
+/home/zhangyoumin/bin/thone/lib/unfiltered-netty_2.8.2-0.6.4.jar=src/main/scala/Palindrome.scala\:src/main/scala/Time.scala
